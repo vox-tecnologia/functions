@@ -1,7 +1,7 @@
 {
     "name": "ucsdmath/functions",
     "type": "library",
-    "description": "A supporting set of commonly used functions.",
+    "description": "A supporting set of commonly used functions. - Software License for University of California",
     "keywords": ["functions", "ucsdmath", "component"],
     "homepage": "https://github.com/ucsdmath",
     "license": "MIT",
