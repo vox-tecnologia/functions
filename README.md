@@ -1,4 +1,8 @@
-# Functions
+# Software License for University of California
+
+
+## Functions
+
 <table border="0">
   <tr>
     <td width="310"><img height="160" width="310"alt="UCSDMath - Mathlink" src="https://github.com/ucsdmath/Testing/blob/master/ucsdmath-logo.png"></td>
